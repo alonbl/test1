@@ -1,3 +1,8 @@
 # Title
 
 Hello world!
+
+[plantuml]
+....
+a->b: a
+....
